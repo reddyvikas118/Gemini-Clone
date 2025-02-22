@@ -125,20 +125,5 @@ Gemini AI Web App employs location tracking features for enhanced user experienc
    - API Endpoint: [https://geocode.maps.co/](https://geocode.maps.co/)
    - The app uses this API to convert latitude and longitude coordinates into an accurate user location.
 
-Please note that the use of location data is subject to our [Privacy Policy](https://github.com/shuvra-matrix/Gemini-Ai--MERN/blob/main/PRIVACY-POLICY.md), and user consent is prioritized. The obtained location information is solely used to enhance user experience within the Gemini AI Web App. We do not share this information with third parties.
-
-If you have any concerns or questions regarding the use of location tracking in Gemini AI Web App, please contact us at [shuvrachakrabarty97@gmail.com](shuvrachakrabarty97@gmail.com).
-
-## Issues and Contributions
-
-Report issues or contribute to the project on [GitHub](https://github.com/shuvra-matrix/Gemini-Ai--MERN).
-
-## Privacy Policy
-
-Read our [Privacy Policy](https://github.com/shuvra-matrix/Gemini-Ai--MERN/blob/main/PRIVACY-POLICY.md) before using Gemini AI. Your use of this web app is subject to our privacy terms.
-
-## Disclaimer
-
-Read the [Disclaimer](https://github.com/shuvra-matrix/Gemini-Ai--MERN/blob/main/DISCLAIMER.md) before using Gemini AI. Use of this web app implies acceptance of the terms stated in the disclaimer.
-
+If you have any concerns or questions regarding the use of location tracking in Gemini AI Web App, please contact us at [reddyvikas1618@gmail.com](reddyvikas1618@gmail.com).
 Enjoy chatting with Gemini AI! 🚀
